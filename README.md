@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Resume: https://hello.cjaewon.com
+Resume: https://hello.cjaewon.com  
 Blog(developing): https://blog.cjaewon.com
 
 <!--
