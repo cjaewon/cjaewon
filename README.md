@@ -1,8 +1,7 @@
-### Hi there 👋
+### 💻 Happy Hacking!
 
-Resume: https://hello.cjaewon.com  
-Blog(developing): https://blog.cjaewon.com
-
+**Resume :** https://hello.cjaewon.com  
+**Blog(developing) :** https://blog.cjaewon.com
 <!--
 **cjaewon/cjaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
