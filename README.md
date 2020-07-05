@@ -3,7 +3,7 @@
 **Resume :** https://hello.cjaewon.com  
 **Blog(developing) :** https://blog.cjaewon.com
 
-`👇 Check My Repos`
+[` 👇 Check My Repos `](https://github.com/cjaewon?tab=repositories)
 
 <!--
 **cjaewon/cjaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
