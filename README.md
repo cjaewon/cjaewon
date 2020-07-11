@@ -2,8 +2,6 @@
 
 **Resume :** https://hello.cjaewon.com  
 **Blog(developing) :** https://blog.cjaewon.com
-검색결과
-웹 검색결과
 
 ### Stacks Skill
 ```
