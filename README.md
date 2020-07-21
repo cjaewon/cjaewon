@@ -1,7 +1,7 @@
 ### 💻 Happy Hacking!
 
 **Resume :** https://hello.cjaewon.com  
-**Blog(developing) :** https://blog.cjaewon.com
+**Blog :** https://blog.cjaewon.com
 
 ### Stacks Skill
 ```
