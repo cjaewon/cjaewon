@@ -14,7 +14,7 @@
 ```
 [` 👆 View More `](https://hello.cjaewon.com/)  
 [` 👇 Check My Repos `](https://github.com/cjaewon?tab=repositories)
-
+[` 👋 Ask Me `](https://github.com/cjaewon/cjaewon/issues/new)
 <!--
 **cjaewon/cjaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
