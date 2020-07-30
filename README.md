@@ -1,7 +1,7 @@
 ### 💻 Happy Hacking!
 ![Email](https://img.shields.io/badge/%F0%9F%93%84Email-jwn@kakao.com-E3D536?style=for-the-badge)
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84Resume-hello.cjaewon-2ED97B?style=for-the-badge&link=https://hello.cjaewon.com)](https://hello.cjaewon.com)
-[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Blog-code.cjaewon-3E53F0?style=for-the-badge&link=https://code.cjaewon.com)](https://code.cjaewon.com)
+[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Blog-code.cjaewon-3E53F0?style=for-the-badge&link=https://medium.com/code-cjaewon)](https://medium.com/code-cjaewon)
 
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjaewon)
