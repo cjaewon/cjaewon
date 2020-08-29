@@ -1,7 +1,7 @@
 ### 💻 Happy Hacking!
 ![Email](https://img.shields.io/badge/%F0%9F%93%84Email-jwn@kakao.com-E3D536?style=for-the-badge)
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84Resume-hello.cjaewon-2ED97B?style=for-the-badge&link=https://hello.cjaewon.com)](https://hello.cjaewon.com)
-[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Blog-code.cjaewon-3E53F0?style=for-the-badge&link=https://medium.com/cjaewon-log)](https://medium.com/cjaewon-log)
+[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Blog-Cjaewon%20Log-3E53F0?style=for-the-badge&link=https://medium.com/cjaewon-log)](https://medium.com/cjaewon-log)
 
 ### Languages && Stacks
 <div>
