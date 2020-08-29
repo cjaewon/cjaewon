@@ -21,7 +21,7 @@
 [` 👋 Ask Me `](https://github.com/cjaewon/cjaewon/issues/new)
 
 ### 📚 Latest Blog Posts
-- [__🌃 HELLO WORLD (블로그를 시작하며…)__](https://medium.com/cjaewon-log/hello-world-f2abd68904a8)
+- [🌃 HELLO WORLD (블로그를 시작하며…)](https://medium.com/cjaewon-log/hello-world-f2abd68904a8)
 
 <!--
 
