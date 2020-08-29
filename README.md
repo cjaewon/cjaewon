@@ -19,10 +19,9 @@
 [` 👆 View More `](https://hello.cjaewon.com/)  
 [` 👇 Check My Repos `](https://github.com/cjaewon?tab=repositories)  
 [` 👋 Ask Me `](https://github.com/cjaewon/cjaewon/issues/new)
-### 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📚 Latest Blog Posts
+- [ 🌃 HELLO WORLD (블로그를 시작하며…) ](https://medium.com/cjaewon-log/hello-world-f2abd68904a8)
 
 <!--
 
