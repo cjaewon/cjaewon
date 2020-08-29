@@ -19,6 +19,11 @@
 [` 👆 View More `](https://hello.cjaewon.com/)  
 [` 👇 Check My Repos `](https://github.com/cjaewon?tab=repositories)  
 [` 👋 Ask Me `](https://github.com/cjaewon/cjaewon/issues/new)
+### 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 
 ```
