@@ -12,6 +12,8 @@
 <img src="https://user-images.githubusercontent.com/32125218/91649825-132d4180-eab3-11ea-8557-6fc734e0a844.png" alt="Docker" width="30px" />
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjaewon%2Fcjaewon&count_bg=%23BDBFE7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HIT%21&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 
 ```
