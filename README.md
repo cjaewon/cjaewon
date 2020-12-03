@@ -1,5 +1,6 @@
-# Hello World 👋 🌎!
-[CJAEWON's LIFE](https://github.com/cjaewon/life)
+<!-- # Hello World 👋 🌎! -->
+![ㅊ.JAEWON](https://raw.githubusercontent.com/cjaewon/cjaewon/master/media/logo.svg)
+
 <!--
 <img src="https://user-images.githubusercontent.com/32125218/91651252-6d370280-eac5-11ea-8a5d-ae20948247d8.png" alt="JavaScript" width="350px" />
 <div>
